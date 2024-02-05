@@ -1,5 +1,8 @@
 # Netflix--Clone
 
+
+click here:- https://netfixfree.freewebhostmost.com/
+
 Creating a Netflix frontend clone using HTML and CSS involves replicating the visual design and layout of the Netflix user interface. Here's a brief overview of the key components and steps you might take:
 
 1. HTML Structure:
